@@ -2,10 +2,10 @@
 
 set -exuo pipefail
 
-nodejs_version="10.9.0"
+nodejs_version="12.9.1"
 
 # http://nodejs.org/dist/v${nodejs_version}/SHASUMS256.txt
-nodejs_checksum="d061760884e4705adfc858eb669c44eb66cd57e8cdf6d5d57a190e76723af416"
+nodejs_checksum="5488e9d9e860eb344726aabdc8f90d09e36602da38da3d16a7ee852fd9fbd91f"
 
 nodejs_url="http://nodejs.org/dist/v${nodejs_version}/node-v${nodejs_version}-linux-x64.tar.gz"
 
